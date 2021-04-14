@@ -41,3 +41,4 @@ This command invokes the function running in the container image and returns a r
 *Alternately, you can also include RIE as a part of your base image. See the AWS documentation on how to [Build RIE into your base image](https://docs.aws.amazon.com/lambda/latest/dg/images-test.html#images-test-alternative).*
 
 - More infomation about [AWS Lambda Python Runtime Local Testing](https://github.com/aws/aws-lambda-python-runtime-interface-client).
+- More [Lambda Python Example Code](https://github.com/awsdocs/aws-doc-sdk-examples/tree/master/python/example_code/lambda).
